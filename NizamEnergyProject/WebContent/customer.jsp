@@ -11,6 +11,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link rel="shortcut icon" href="assets/icons/favicon.png" />
 <title>Nizam Energy</title>
+<!-- <title>Nizam Energy</title> -->
 
 <link href="assets/plugins/DataTables/css/data-table.css"
 	rel="stylesheet">
