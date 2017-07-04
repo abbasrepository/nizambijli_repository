@@ -75,6 +75,7 @@
 		<span class="spinner"></span>
 	</div>
 	<!-- end #page-loader -->
+	<!-- end #page-loader -->
 
 	<!-- begin #page-container -->
 	<div id="page-container"
